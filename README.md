@@ -232,7 +232,7 @@
 
 <td align="center" width="25%" style="padding:10px;">
   <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS" style="text-decoration:none;">
-    <img src="https://opengraph.githubassets.com/7/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS"
+    <img src="https://opengraph.githubassets.com/7/Dreamerol/NUM-ANALYS-OPERATIONS-FUNCTIONS"
          style="width:100%; border-radius:12px;">
     <br>
     <b>📐 NUMERICAL-ANALYSIS</b>
