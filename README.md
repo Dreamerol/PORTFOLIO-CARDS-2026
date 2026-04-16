@@ -15,43 +15,32 @@
 
 
 
-<td align="center" width="25%" style="padding:10px;">
+<table align="center">
+  <tr>
 
-  <table role="presentation"
-         cellpadding="0"
-         cellspacing="0"
-         style="background:#161b22;
-                border:1px solid #30363d;
-                border-radius:12px;
-                overflow:hidden;
-                width:100%;">
+   <td align="center" width="25%" style="padding:10px;">
 
-   <tr>
-      <td align="center" style="padding:8px;">
+   <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" style="text-decoration:none;">
 
-  <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
-           style="text-decoration:none;">
+   <div style="border:1px solid #30363d; border-radius:12px; overflow:hidden; background:#161b22;">
 
-   <img src="https://opengraph.githubassets.com/7/Dreamerol/PHYSICS-SIMULATION-SYSTEMS"
-               style="width:100%;
-                      display:block;
-                      border-radius:10px;">
+<!-- CUSTOM DARK IMAGE (NOT OPENGRAPH) -->
+   <img src="https://via.placeholder.com/600x300/161b22/c9d1d9?text=PHYSICS+SIM"
+               width="100%"
+               style="display:block;">
 
-   <div style="color:#c9d1d9;
-                      font-weight:600;
-                      padding-top:8px;">
+   <div style="padding:8px; color:#c9d1d9; font-weight:600;">
             ⚙️ PHYSICS-SIM
           </div>
 
-   </a>
+        </div>
 
-   </td>
-    </tr>
+      </a>
 
-  </table>
+    </td>
 
-</td>
-
+  </tr>
+</table>
 
 
 ---
