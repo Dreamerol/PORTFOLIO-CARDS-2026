@@ -1,13 +1,6 @@
 <div align="center">
 
-# PORTFOLIO-PROJECTS-CARDS-2026
-
-</div>
-
-
-<div align="center">
-
-<h1>PORTFOLIO-PROJECTS-CARDS-2026</h1>
+<h1>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦-𝟮𝟬𝟮𝟲</h1>
 
 </div>
 
