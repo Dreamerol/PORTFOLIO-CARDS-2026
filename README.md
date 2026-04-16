@@ -10,18 +10,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-
   <img
     src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
     alt="Portfolio Cards"
-    width="729"/>
-
-</a>
+    width="100%"/>
 
 </div>
-
-
 
 
 ---
