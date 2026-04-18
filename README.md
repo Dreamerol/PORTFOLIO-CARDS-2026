@@ -320,7 +320,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗣𝗬𝗧𝗛𝗢𝗡</b><br>
 <b style="font-size:13px;">
-𝗥𝗘𝗦𝗧 𝗔𝗣𝗜 · 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗟𝗢𝗚𝗜𝗖
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 · 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗟𝗢𝗚𝗜𝗖
 </b>
 </p>
 </td>
@@ -346,9 +346,9 @@ style="width:100%; border-radius:14px;">
 style="width:100%; border-radius:14px;">
 </a>
 <p align="center">
-<b style="color:#1f6feb;">𝗝𝗔𝗩𝗔</b><br>
+<b style="color:#1f6feb;">CLOJURE</b><br>
 <b style="font-size:13px;">
-𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 · 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
 </b>
 </p>
 </td>
