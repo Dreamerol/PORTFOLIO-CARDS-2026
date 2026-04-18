@@ -182,103 +182,74 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
+<div class="card">
+  <div class="icon">🌍</div>
 
+  <div class="content">
+    <h1>AI DATA ANALYTICS DASHBOARD</h1>
+    <p>Interactive system for analyzing large-scale datasets with intelligent insights.</p>
 
-
-
-<div align="center">
-
-<!-- ================= ROW 1 ================= -->
-<table align="center">
-
-<tr>
-
-<!-- CARD 1 -->
-<td align="center" width="33%" style="padding:12px;">
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS"
-style="width:100%; border-radius:14px;">
-</a>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗗𝗦𝗔</b>
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗪𝗛𝗔𝗧 𝗜𝗧 𝗜𝗦</b><br>
-𝗖𝗼𝗿𝗲 𝗱𝗮𝘁𝗮 𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗗𝗘𝗠𝗢𝗡𝗦𝗧𝗥𝗔𝗧𝗘𝗦</b><br>
-𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 · 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗧𝗘𝗖𝗛</b><br>
-𝗖++ · 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀
-</p>
-</td>
-
-<!-- CARD 2 -->
-<td align="center" width="33%" style="padding:12px;">
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/POCKER-CONSOLE-GAME"
-style="width:100%; border-radius:14px;">
-</a>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗣𝗢𝗖𝗞𝗘𝗥</b>
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗪𝗛𝗔𝗧 𝗜𝗧 𝗜𝗦</b><br>
-𝗖𝗼𝗻𝘀𝗼𝗹𝗲 𝗰𝗮𝗿𝗱 𝗴𝗮𝗺𝗲 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗗𝗘𝗠𝗢𝗡𝗦𝗧𝗥𝗔𝗧𝗘𝗦</b><br>
-𝗦𝘁𝗮𝘁𝗲 𝗹𝗼𝗴𝗶𝗰 · 𝗿𝗮𝗻𝗱𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗧𝗘𝗖𝗛</b><br>
-𝗖++ · 𝗚𝗮𝗺𝗲 𝗹𝗼𝗴𝗶𝗰
-</p>
-</td>
-
-<!-- CARD 3 -->
-<td align="center" width="33%" style="padding:12px;">
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<img src="https://opengraph.githubassets.com/7/Dreamerol/RUMMIKUB-CONSOLE-GAME"
-style="width:100%; border-radius:14px;">
-</a>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b>
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗪𝗛𝗔𝗧 𝗜𝗧 𝗜𝗦</b><br>
-𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆-𝗯𝗮𝘀𝗲𝗱 𝗹𝗼𝗴𝗶𝗰 𝗴𝗮𝗺𝗲
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗗𝗘𝗠𝗢𝗡𝗦𝗧𝗥𝗔𝗧𝗘𝗦</b><br>
-𝗚𝗮𝗺𝗲 𝗿𝘂𝗹𝗲𝘀 · 𝘀𝘁𝗮𝘁𝗲 𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴
-</p>
-
-<p align="center">
-<b style="color:#1f6feb;">𝗧𝗘𝗖𝗛</b><br>
-𝗖++ · 𝗟𝗼𝗴𝗶𝗰 𝗱𝗲𝘀𝗶𝗴𝗻
-</p>
-</td>
-
-</tr>
-
-</table>
-
+    <div class="tags">
+      <span>Python</span>
+      <span>Machine Learning</span>
+      <span>Data Analysis</span>
+    </div>
+  </div>
 </div>
+
+<style>
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #0b1220, #05070f);
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+  width: 650px;
+
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(0, 200, 255, 0.25);
+  border-radius: 20px;
+
+  box-shadow: 0 0 40px rgba(0, 150, 255, 0.15);
+  backdrop-filter: blur(12px);
+}
+
+.icon {
+  font-size: 50px;
+  filter: drop-shadow(0 0 10px #00aaff);
+}
+
+h1 {
+  margin: 0;
+  color: #7dd3ff;
+  letter-spacing: 1px;
+}
+
+p {
+  color: rgba(255,255,255,0.65);
+  margin: 10px 0 20px;
+}
+
+.tags span {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 6px 12px;
+
+  border-radius: 999px;
+  background: rgba(0, 180, 255, 0.15);
+  border: 1px solid rgba(0, 180, 255, 0.3);
+  color: #7dd3ff;
+  font-size: 12px;
+}
+</style>
 
 
 
