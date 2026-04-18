@@ -169,6 +169,58 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 <div align="center">
 
+## 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔@FMI
+
+---
+
+### 𝗜 𝗔𝗠 𝗗𝗥𝗜𝗩𝗘𝗡 𝗕𝗬 𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗𝗜𝗡𝗚 𝗛𝗢𝗪 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 𝗪𝗢𝗥𝗞 𝗕𝗘𝗡𝗘𝗔𝗧𝗛 𝗧𝗛𝗘 𝗦𝗨𝗥𝗙𝗔𝗖𝗘
+
+I’ve always been drawn to understanding how things work under the surface — not just using systems, but figuring out how they are built.
+
+This led me to Software Engineering at Sofia University “St. Kliment Ohridski” (FMI), where I started exploring logic, structure, and system design beyond just programming.
+
+---
+
+### 𝗧𝗨𝗥𝗡𝗜𝗡𝗚 𝗖𝗢𝗠𝗣𝗟𝗘𝗫 𝗣𝗥𝗢𝗕𝗟𝗘𝗠𝗦 𝗜𝗡𝗧𝗢 𝗖𝗟𝗘𝗔𝗥 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡𝗦
+
+Over time, I realized I enjoy building solutions more than writing code itself — especially when it comes to transforming abstract problems into structured systems.
+
+My experience includes simulation systems, data-driven applications, and object-oriented designs, which strengthened my analytical thinking and debugging skills.
+
+---
+
+### 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
+
+C++ • Python • Java • SQL • Clojure  
+
+---
+
+### 𝗙𝗢𝗖𝗨𝗦
+
+Machine Learning • Algorithms • System Design • Data-Driven Problem Solving  
+
+---
+
+### 𝗠𝗜𝗡𝗗𝗦𝗘𝗧
+
+I value consistency, deep understanding, and continuous improvement over quick results.
+
+---
+
+### 𝗢𝗣𝗘𝗡 𝗧𝗢 𝗢𝗣𝗣𝗢𝗥𝗧𝗨𝗡𝗜𝗧𝗜𝗘𝗦
+
+Looking to grow as a Software Engineer and contribute to real-world systems while learning from experienced engineers.
+
+</div>
+
+
+---
+
+
+
+
+<div align="center">
+
 
 <h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 - 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜</h2>
 
