@@ -180,6 +180,200 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 
 
+<div align="center">
+
+<h1 align="center">
+<b style="color:#1f6feb; letter-spacing:1px;">
+𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 · 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+</b>
+</h1>
+
+<br>
+
+<!-- ===================== SECTION ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb; font-size:18px;">
+𝗖𝗢𝗥𝗘 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+</b>
+</h3>
+
+<table align="center">
+
+<tr>
+
+<!-- 1 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗗𝗦𝗔</b><br>
+<b style="font-size:13px;">
+𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗧𝗛𝗜𝗡𝗞𝗜𝗡𝗚 · 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡
+</b>
+</p>
+</td>
+
+<!-- 2 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/POCKER-CONSOLE-GAME"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗣𝗢𝗖𝗞𝗘𝗥</b><br>
+<b style="font-size:13px;">
+𝗚𝗔𝗠𝗘 𝗟𝗢𝗚𝗜𝗖 · 𝗦𝗧𝗔𝗧𝗘 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧
+</b>
+</p>
+</td>
+
+<!-- 3 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/RUMMIKUB-CONSOLE-GAME"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b><br>
+<b style="font-size:13px;">
+𝗥𝗨𝗟𝗘 𝗘𝗡𝗚𝗜𝗡𝗘 · 𝗦𝗧𝗥𝗔𝗧𝗘𝗚𝗬 𝗟𝗢𝗚𝗜𝗖
+</b>
+</p>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- ===================== SECTION ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb; font-size:18px;">
+𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
+</b>
+</h3>
+
+<table align="center">
+
+<tr>
+
+<!-- 4 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/OBJECT-ORIENTED-PROGRAMMING"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗢𝗢𝗣</b><br>
+<b style="font-size:13px;">
+𝗘𝗡𝗖𝗔𝗣𝗦𝗨𝗟𝗔𝗧𝗜𝗢𝗡 · 𝗜𝗡𝗛𝗘𝗥𝗜𝗧𝗔𝗡𝗖𝗘
+</b>
+</p>
+</td>
+
+<!-- 5 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/OOP-PRINCIPLES-DESIGN"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗗𝗘𝗦𝗜𝗚𝗡</b><br>
+<b style="font-size:13px;">
+𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 · 𝗦𝗖𝗔𝗟𝗔𝗕𝗜𝗟𝗜𝗧𝗬
+</b>
+</p>
+</td>
+
+<!-- 6 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/LINUX-PRO-TOOLKIT"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗟𝗜𝗡𝗨𝗫</b><br>
+<b style="font-size:13px;">
+𝗖𝗟𝗜 𝗧𝗢𝗢𝗟𝗜𝗡𝗚 · 𝗦𝗬𝗦𝗧𝗘𝗠 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦
+</b>
+</p>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- ===================== SECTION ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb; font-size:18px;">
+𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
+</b>
+</h3>
+
+<table align="center">
+
+<tr>
+
+<!-- 7 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/PYTHON-WEB-ADVANCED"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗣𝗬𝗧𝗛𝗢𝗡</b><br>
+<b style="font-size:13px;">
+𝗥𝗘𝗦𝗧 𝗔𝗣𝗜 · 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗟𝗢𝗚𝗜𝗖
+</b>
+</p>
+</td>
+
+<!-- 8 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/DATABASES-SQL"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗦𝗤𝗟</b><br>
+<b style="font-size:13px;">
+𝗤𝗨𝗘𝗥𝗜𝗘𝗦 · 𝗗𝗔𝗧𝗔 𝗠𝗢𝗗𝗘𝗟𝗜𝗡𝗚
+</b>
+</p>
+</td>
+
+<!-- 9 -->
+<td align="center" width="33%" style="padding:12px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://opengraph.githubassets.com/7/Dreamerol/JAVA-CLOJURE-API-SYSTEM"
+style="width:100%; border-radius:14px;">
+</a>
+<p align="center">
+<b style="color:#1f6feb;">𝗝𝗔𝗩𝗔</b><br>
+<b style="font-size:13px;">
+𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 · 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+</b>
+</p>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+---
+
+
 
 
 
