@@ -177,10 +177,6 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 
 ---
 
-I’ve worked with C++, Python, Java, SQL, and Clojure, but what matters most to me is not the tools themselves — it’s what you can build and understand through them.
-
----
-
 I am especially motivated by problems that combine logic, mathematics, and real-world structure. I enjoy simplifying complexity and building systems that are clean and understandable. Outside of coding, I value consistency, discipline, and continuous learning over quick results.
 
 ---
