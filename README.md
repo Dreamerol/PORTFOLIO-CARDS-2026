@@ -189,7 +189,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
     <h1>AI DATA ANALYTICS DASHBOARD</h1>
     <p>Interactive system for analyzing large-scale datasets with intelligent insights.</p>
 
-    <div class="tags">
+   <div class="tags">
       <span>Python</span>
       <span>Machine Learning</span>
       <span>Data Analysis</span>
@@ -263,8 +263,6 @@ p {
 
 
 
-
-
 ---
 
 
@@ -305,7 +303,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗣𝗢𝗖𝗞𝗘𝗥</b><br>
 <b style="font-size:13px;">
-𝗚𝗔𝗠𝗘 𝗟𝗢𝗚𝗜𝗖 · 𝗦𝗧𝗔𝗧𝗘 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧
+𝗚𝗔𝗠𝗘 𝗟𝗢𝗚𝗜𝗖 
 </b>
 </p>
 </td>
@@ -319,7 +317,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b><br>
 <b style="font-size:13px;">
-𝗥𝗨𝗟𝗘 𝗘𝗡𝗚𝗜𝗡𝗘 · 𝗦𝗧𝗥𝗔𝗧𝗘𝗚𝗬 𝗟𝗢𝗚𝗜𝗖
+𝗦𝗧𝗥𝗔𝗧𝗘𝗚𝗬 𝗟𝗢𝗚𝗜𝗖
 </b>
 </p>
 </td>
