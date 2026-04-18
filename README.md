@@ -205,7 +205,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗗𝗦𝗔</b><br>
 <b style="font-size:13px;">
-𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗜𝗖 𝗢𝗣𝗧𝗜𝗠𝗜𝗭𝗔𝗧𝗜𝗢𝗡
+𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦
 </b>
 </p>
 </td>
@@ -219,7 +219,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗣𝗢𝗖𝗞𝗘𝗥</b><br>
 <b style="font-size:13px;">
-𝗚𝗔𝗠𝗘 𝗟𝗢𝗚𝗜𝗖 
+𝗚𝗔𝗠𝗘 
 </b>
 </p>
 </td>
@@ -233,7 +233,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕</b><br>
 <b style="font-size:13px;">
-𝗦𝗧𝗥𝗔𝗧𝗘𝗚𝗬 𝗟𝗢𝗚𝗜𝗖
+𝗚𝗔𝗠𝗘 
 </b>
 </p>
 </td>
@@ -264,7 +264,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗢𝗢𝗣</b><br>
 <b style="font-size:13px;">
-𝗘𝗡𝗖𝗔𝗣𝗦𝗨𝗟𝗔𝗧𝗜𝗢𝗡 · 𝗜𝗡𝗛𝗘𝗥𝗜𝗧𝗔𝗡𝗖𝗘
+𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦
 </b>
 </p>
 </td>
@@ -276,9 +276,9 @@ style="width:100%; border-radius:14px;">
 style="width:100%; border-radius:14px;">
 </a>
 <p align="center">
-<b style="color:#1f6feb;">𝗗𝗘𝗦𝗜𝗚𝗡</b><br>
+<b style="color:#1f6feb;">𝗖++</b><br>
 <b style="font-size:13px;">
-𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘
+𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
 </b>
 </p>
 </td>
@@ -292,7 +292,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗟𝗜𝗡𝗨𝗫</b><br>
 <b style="font-size:13px;">
-𝗦𝗬𝗦𝗧𝗘𝗠 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦
+𝗦𝗬𝗦𝗧𝗘𝗠
 </b>
 </p>
 </td>
@@ -323,7 +323,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗣𝗬𝗧𝗛𝗢𝗡</b><br>
 <b style="font-size:13px;">
-𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 · 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗟𝗢𝗚𝗜𝗖
+𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
 </b>
 </p>
 </td>
@@ -337,7 +337,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗦𝗤𝗟</b><br>
 <b style="font-size:13px;">
-𝗤𝗨𝗘𝗥𝗜𝗘𝗦 · 𝗗𝗔𝗧𝗔 𝗠𝗢𝗗𝗘𝗟𝗜𝗡𝗚
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
 </b>
 </p>
 </td>
@@ -351,7 +351,7 @@ style="width:100%; border-radius:14px;">
 <p align="center">
 <b style="color:#1f6feb;">𝗖𝗟𝗢𝗝𝗨𝗥𝗘</b><br>
 <b style="font-size:13px;">
-𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟
 </b>
 </p>
 </td>
