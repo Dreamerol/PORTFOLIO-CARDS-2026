@@ -456,21 +456,6 @@ Open to contributing to real systems while learning from experienced engineers a
 
 
 
----
-
-<br>
-
-<div align="center">
-
-### ⚙️ TECH STACK OVERVIEW
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-/>
-
-</div>
-
-<br>
 
 
 ---
