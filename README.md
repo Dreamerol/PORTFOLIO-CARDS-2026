@@ -439,7 +439,26 @@ Open to contributing to real systems while learning from experienced engineers a
 
 
 
+
 ---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamerol&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+
+---
+
 
 
 <div align="center">
@@ -449,20 +468,10 @@ Open to contributing to real systems while learning from experienced engineers a
   <span style="display:block; font-size:2.5em;">
     📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
   </span> <span style="display:block; font-size:2.5em;"> ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 </span>
-<span style="display:block; font-size:2.5em;">🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
+<span style="display:block; font-size:2.5em;">🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
   </span>
 
 </div>
-
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
-</p>
 
 
 ---
@@ -474,11 +483,12 @@ Open to contributing to real systems while learning from experienced engineers a
 </h4>
 
 
-
 <p align="center">
   🔗 Explore more on my GitHub profile: 
   <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
 </p>
+
+
 
 
 
