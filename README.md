@@ -223,6 +223,75 @@ width="320" style="height:auto; border-radius:12px;">
 
 <div style="height:8px;"></div>
 
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗖++ 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/147bc7cfbd4cc69f66145360ed196183cec12fab/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗢𝗢𝗣 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗟𝗜𝗡𝗨𝗫 𝗦𝗬𝗦𝗧𝗘𝗠</span>
+</td>
+
+</tr>
+
+
+
+
+
+
+----
 <!-- ===================== SYSTEMS ===================== -->
 <h3 align="center" style="margin:10px 0 5px 0;">
 <b style="color:#1f6feb; font-size:18px;">
