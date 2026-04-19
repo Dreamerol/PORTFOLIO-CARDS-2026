@@ -400,7 +400,8 @@ I am especially motivated by problems that combine logic, mathematics, and real-
 
 ---
 
-Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. I am open to opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing both technically and professionally.
+Right now, I am focused on growing as a Software Engineer and Data-oriented problem solver, with interest in Machine Learning, Algorithms, and System Design. 
+I am open to opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing both technically and professionally.
 
 </a>
  
