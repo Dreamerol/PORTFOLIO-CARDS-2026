@@ -328,10 +328,73 @@ style="height:auto; border-radius:12px;">
 ---
 
 
+<!-- ===================== SECTION ===================== -->
+<h3 align="center">
+<b style="color:#1f6feb; font-size:18px;">
+𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗣𝗥𝗢𝗗𝗨𝗖𝗧𝗜𝗢𝗡
+</b>
+</h3>
+
+<div align="center">
+<table align="center">
+
+<tr>
+
+<!-- 7 -->
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320"
+style="height:auto; border-radius:12px;">
+</a>
+<br>
+<span style="font-size:22px; font-weight:800; color:#1f6feb;">
+𝗣𝗬𝗧𝗛𝗢𝗡
+</span><br>
+<span style="font-size:14px; font-weight:700;">
+𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+</span>
+</td>
+
+<!-- 8 -->
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320"
+style="height:auto; border-radius:12px;">
+</a>
+<br>
+<span style="font-size:22px; font-weight:800; color:#1f6feb;">
+𝗦𝗤𝗟
+</span><br>
+<span style="font-size:14px; font-weight:700;">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘
+</span>
+</td>
+
+<!-- 9 -->
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320"
+style="height:auto; border-radius:12px;">
+</a>
+<br>
+<span style="font-size:22px; font-weight:800; color:#1f6feb;">
+𝗖𝗟𝗢𝗝𝗨𝗥𝗘
+</span><br>
+<span style="font-size:14px; font-weight:700;">
+𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟
+</span>
+</td>
+
+</tr>
+
+</table>
+</div>
 
 
-
-
+---
 
 
 
