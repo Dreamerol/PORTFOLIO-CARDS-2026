@@ -214,6 +214,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
+</div>
+
 <!-- ROW 2 -->
 <tr>
 
@@ -242,6 +244,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 </tr>
+
+</div>
 
 <!-- ROW 3 -->
 <tr>
