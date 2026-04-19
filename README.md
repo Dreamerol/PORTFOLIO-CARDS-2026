@@ -457,6 +457,16 @@ Open to contributing to real systems while learning from experienced engineers a
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+</p>
+
+
+---
+
 
 <h4 align="center" style="font-weight: normal;">
 #AI #MachineLearning #AppliedML #NeuralNetworks #DataScience #Python #C++ #OOP #SQL #DataAnalysis #Pandas #NumPy #APIs #FullStackDevelopment #SoftwareEngineering #JuniorDeveloper 
