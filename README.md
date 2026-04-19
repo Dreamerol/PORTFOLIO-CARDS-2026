@@ -24,7 +24,6 @@
 </div>
 
 
-
 ---
 
 
@@ -48,7 +47,6 @@
 
 
 
-
 ---
 
 
@@ -66,9 +64,7 @@ Algorithms • Data Structures • System Design • APIs • SQL • Python •
 </h3>
 
 
-
 ---
-
 
 
 <h3 align="center">
@@ -250,7 +246,7 @@ style="height:auto; object-fit:cover; border-radius:12px;">
 
 
 
----
+
 
 
 
@@ -325,7 +321,7 @@ style="height:auto; border-radius:12px;">
 
 
 
----
+
 
 
 <!-- ===================== SECTION ===================== -->
@@ -394,16 +390,11 @@ style="height:auto; border-radius:12px;">
 </div>
 
 
+
+
+
+
 ---
-
-
-
-
-
-
-
-
-
 
 
 
