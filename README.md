@@ -474,6 +474,10 @@ Open to contributing to real systems while learning from experienced engineers a
 </div>
 
 
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 
 
@@ -482,11 +486,6 @@ Open to contributing to real systems while learning from experienced engineers a
 #APIIntegrations #AI #MachineLearning #AppliedML #DataAnalyst
 </h4>
 
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
 
 
 
