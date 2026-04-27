@@ -161,6 +161,7 @@ Python • SQL • Data Analysis • Machine Learning
 
 ---
 
+<br>
 
 <div align="center">
 
@@ -295,7 +296,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 
 
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -376,6 +376,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </p>
 
 </div>
+
 
 ---
 
