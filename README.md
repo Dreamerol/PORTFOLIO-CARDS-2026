@@ -166,7 +166,7 @@ Python • SQL • Data Analysis • Machine Learning
 <div align="center">
 
 
-<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦</h2>  
+<h1>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦</h1>  
 
 
 </div>
