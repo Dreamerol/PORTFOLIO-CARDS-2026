@@ -159,7 +159,7 @@ Python • SQL • Data Analysis • Machine Learning
 </div>
 
 
----
+
 
 <br>
 
@@ -171,8 +171,7 @@ Python • SQL • Data Analysis • Machine Learning
 
 </div>
 
-
-
+<br>
 
 
 
