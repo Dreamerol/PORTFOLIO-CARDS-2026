@@ -293,6 +293,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </div>
 
 
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
+
+
 <br>
 
 <p align="center">
@@ -376,16 +383,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 </div>
 
-
----
-
-
-
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>✨ Click any badge to view project</em></strong>
-  </a>
-</h3>
 
 ---
 
