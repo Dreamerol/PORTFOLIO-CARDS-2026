@@ -166,7 +166,7 @@ Python • SQL • Data Analysis • Machine Learning
 <div align="center">
 
 
-<h1>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</h1>  
+<h2>𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦</h2>  
 
 
 </div>
@@ -393,11 +393,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <div align="center">
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 
+    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
   </a>
-</h1>
+</h2>
 
 
 
