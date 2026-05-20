@@ -43,49 +43,6 @@
 
 
 
-
-<br>
-
-
-<h2 align="center">
-𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
-</h2>
-
-<h3 align="center">
-Python • SQL • Data Analysis • Machine Learning
-</h3>
-
-<h3 align="center">
- ∫ data → systems ✨
-</h3>
-
-
-<br>
-
-
----
-
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-
 <br>
 
 <div align="center">
@@ -231,21 +188,23 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </div>
 
 
+
+<br>
 <br>
 
 <div align="center">
 
-<h2 align="center">
-  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-  </a>
-</h2>
+# 👉 <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
+## Python • SQL • Data Analysis • Machine Learning
 
+## ∫ data → systems ✨
 
-
+<br>
 
 </div>
+
+
 
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
 <h2>𝗜’𝘃𝗲 𝗮𝗹𝘄𝗮𝘆𝘀 𝗯𝗲𝗲𝗻 𝗱𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝘁𝗵𝗶𝗻𝗴𝘀 𝘄𝗼𝗿𝗸 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝘂𝘀𝗶𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗯𝘂𝘁 𝗳𝗶𝗴𝘂𝗿𝗶𝗻𝗴 𝗼𝘂𝘁 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲 𝗯𝘂𝗶𝗹𝘁. This curiosity naturally led me to Software Engineering at Sofia University (FMI), where I began exploring not only programming, but also the logic, structure, and design behind complex systems. 
