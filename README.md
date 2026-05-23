@@ -209,11 +209,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 <br>
 
 
-
-<hr>
-
-
-
 <br>
 
 <h2 align="center"> 
