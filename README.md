@@ -260,7 +260,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-6B7280?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
