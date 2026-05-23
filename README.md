@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🟢 𝗦𝗪𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</h1>
+<h1>🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</h1>
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol">🟢 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦</a>
+## <a href="https://github.com/Dreamerol">🟢 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
