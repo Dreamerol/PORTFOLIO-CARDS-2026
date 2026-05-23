@@ -89,7 +89,7 @@ Think deeply. Build precisely. Move with intent.
 </div>
 
 
-<br><br>
+<br>
 
 
 <div align="center">
