@@ -78,11 +78,7 @@
 
 <hr>
 
-Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning.
-
-<hr>
-
-Think deeply. Build precisely. Move with intent.
+Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning. Think deeply. Build precisely. Move with intent.
 
 </h2>
 
