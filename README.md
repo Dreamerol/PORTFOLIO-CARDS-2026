@@ -202,7 +202,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <hr>
 
-Outside of coding, there is focus on calm consistency, discipline, and continuous improvement. The current path is Software Engineering, with strong interest in systems, algorithms, and machine learning. Built through quiet persistence. Think deeply. Move with intent. </a> </h2> </div>
+Outside of coding, there is focus on calm consistency, discipline, and continuous improvement. The current path is Software Engineering, with strong interest in systems, algorithms, and machine learning. Built through quiet persistence. Think deeply § with intent. </a> </h2> </div>
 
 
 <br>
