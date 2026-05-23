@@ -76,7 +76,7 @@
 <h2>
 𝗗𝗿𝗮𝘄𝗻 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝗲𝗺𝗲𝗿𝗴𝗲 𝗯𝗲𝗻𝗲𝗮𝘁𝗵 𝘁𝗵𝗲 𝘀𝘂𝗿𝗳𝗮𝗰𝗲 — not just to use them, but to see the structure inside them. A steady shift toward turning abstract problems into simple, reliable systems where logic quietly carries complexity.
 
-<br><br>
+<br>
 
 Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning. Think deeply. Build precisely. Move with intent.
 
