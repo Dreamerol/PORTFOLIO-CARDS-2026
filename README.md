@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>🟢 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</h2>
+<h2>🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</h2>
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-## 🟢 <a href="https://github.com/Dreamerol">𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a>
+## 🟢 <a href="https://github.com/Dreamerol">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
