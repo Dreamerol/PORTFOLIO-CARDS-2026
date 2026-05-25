@@ -75,7 +75,7 @@
 
 <h2>
   
-Interested in how systems emerge from simplicity - where structure, logic and limitations turn abstract problems into working systems.
+Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
 
 <br>
 
