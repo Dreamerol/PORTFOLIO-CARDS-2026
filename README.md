@@ -83,7 +83,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 <br>
 
-Think deeply. Build precisely. Move with intent.
+Think deeply. Build with intent.
 
 </h2>
 
