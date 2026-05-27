@@ -215,11 +215,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 <br>
 
 
-<h3 align="center"> 
+<h2 align="center"> 
  ✨ <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
   <em> Click any badge to view project</em>
  </a>
-</h3>
+</h2>
 
 <br>
 
