@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🧩 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h1>
+<h1>🧩 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</h1>
 
 </div>
 
@@ -94,7 +94,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 <div align="center">
 
-##  <a href="https://github.com/Dreamerol">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦 𝟮𝟬𝟮𝟲</a>
+##  <a href="https://github.com/Dreamerol">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a>
 
 </div>
 
