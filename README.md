@@ -94,7 +94,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 <div align="center">
 
-##  <a href="https://github.com/Dreamerol">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
+##  <a href="https://github.com/Dreamerol">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦 𝟮𝟬𝟮𝟲</a>
 
 </div>
 
