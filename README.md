@@ -11,7 +11,7 @@
 <a href="https://github.com/Dreamerol">
 
   <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
     alt="Portfolio Cards"
     width="100%"/>
 
@@ -122,7 +122,7 @@ Focused on calm consistency, disciplined work and continuous improvement across 
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -131,7 +131,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -140,7 +140,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -154,7 +154,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -163,7 +163,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -172,7 +172,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -186,7 +186,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -195,7 +195,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/DATABASES-SQL">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
@@ -204,7 +204,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px; display:blo
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px; display:block; margin:0 auto;">
 </a>
 <div style="height:8px;"></div>
